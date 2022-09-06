@@ -1,1 +1,3 @@
-console.log(123);
+import UI from './classes/UI.js';
+
+const uiCL = new UI();
